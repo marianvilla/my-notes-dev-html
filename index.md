@@ -12,4 +12,9 @@ Serán diferentes, dependiendo del usuario que la use.
 En pocas palabras, un sitio web es un conjunto de páginas estáticas que entregan información. Por su parte, las aplicaciones web son plataformas principalmente interactivas que se centran en que los usuarios realicen acciones.
 --------------
 
+# HTML: anatomía de una página web
 
+La web se conforma de tres conceptos:
+* URL => Uniform Resource Locator.
+* HTTP => Protocolo de transferencia de hipertexto.
+*  HTML => es el código que se utiliza para estructurar el contenido de tu web, y darle sentido y propósito.
